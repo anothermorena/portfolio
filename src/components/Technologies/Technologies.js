@@ -1,6 +1,6 @@
 import React from 'react';
 import { DiFirebase, DiReact } from 'react-icons/di';
-import { FaRobot, FaTools} from 'react-icons/fa';
+import { FaRobot, FaTools,FaReact,FaDatabase} from 'react-icons/fa';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 
@@ -14,7 +14,7 @@ const Technologies = () =>  (
     <List>
       <ListItem>
         <picture>
-          <DiReact size="3rem" />
+          <FaReact size="2rem" />
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
@@ -25,7 +25,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" />
+          <FaDatabase size="2rem" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
@@ -36,7 +36,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <FaRobot size="3rem" />
+          <FaRobot size="2rem" />
         </picture>
         <ListContainer>
           <ListTitle>Artificial Intelligence</ListTitle>
@@ -47,7 +47,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <FaTools size="3rem" />
+          <FaTools size="2rem" />
         </picture>
         <ListContainer>
           <ListTitle>Other Tools & Skils</ListTitle>
