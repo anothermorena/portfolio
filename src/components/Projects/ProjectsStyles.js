@@ -109,4 +109,8 @@ padding: 2rem;
 export const Tag = styled.li`
 color: #4299E1;
 font-size: 1.5rem;
+@media ${(props) => props.theme.breakpoints.sm} {
+  padding:.3rem
+
+}
 `

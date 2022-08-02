@@ -39,7 +39,7 @@ export const projects = [
     title: 'Pneumonia Prediction PWA',
     description: "This is an end-to-end PWA and a convolutional neural network (CNN) project that classifies chest x-ray images of patients with lung disease (pneumonia) and those who do not have lung disease (normal). The model had a 0.90 AUC score, 0.91 Accuracy, 0.92 Precision, 0.94 Recall, and a 0.91 F1-score for class 0 (Pneumonia).",
     image: '/images/5.png',
-    tags: ['React','Python','FastAPI','Keras & Tensorflow'],
+    tags: ['React','Python','FastAPI','Keras', 'Tensorflow'],
     code: 'https://github.com/anothermorena/pneumonia-prediction',
     live: 'https://ppa-virid.vercel.app/',
     id: 4,

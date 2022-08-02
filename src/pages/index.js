@@ -4,7 +4,6 @@ import { Section } from '../styles/GlobalComponents';
 import Projects from '../components/Projects/Projects';
 import Timeline from '../components/TimeLine/TimeLine';
 import Technologies from '../components/Technologies/Technologies';
-import Acomplishments from '../components/Acomplishments/Acomplishments';
 import BgAnimation from '../components/BackgrooundAnimation/BackgroundAnimation';
 
 const Home = () => {
@@ -17,7 +16,6 @@ const Home = () => {
       <Projects />
       <Technologies />
       <Timeline />
-      <Acomplishments />
     </Layout>
   );
 };
