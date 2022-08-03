@@ -1,5 +1,4 @@
 import React from 'react';
-import { DiFirebase, DiReact } from 'react-icons/di';
 import { FaRobot, FaTools,FaReact,FaDatabase} from 'react-icons/fa';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';

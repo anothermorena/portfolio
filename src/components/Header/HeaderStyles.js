@@ -20,6 +20,7 @@ export const Container = styled.div`
 
 export const Span = styled.span`
   font-size: 2rem;
+  font-weight: bold;
 `;
 
 export const Div1 = styled.div`
@@ -27,8 +28,10 @@ export const Div1 = styled.div`
   display: flex;
   flex-direction: row;
   align-content: center;
+  margin-top: -5px;
   @media ${(props) => props.theme.breakpoints.sm} {
     grid-area: 1 / 1 / 2 / 3;
+    margin-top: 12px;
   }
 `;
 

@@ -4,7 +4,7 @@ import { LeftSection } from './HeroStyles';
 import Button from '../../styles/GlobalComponents/Button';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 
-const Hero = () => (
+const Hero = (props) => (
   <>
     <Section row nopadding>
       <LeftSection>
@@ -16,7 +16,7 @@ const Hero = () => (
             A multipotentialite, if you may. With the ability to quickly learn complex things on a need-to-know basis and apply them. 
         </SectionText>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center'}}>
-          <Link href='/docs/cv.pdf' target='_blank'>
+          <Link href='/docs/cv.pdf'>
             <Button>Download CV</Button>
           </Link>
           <Link href='mailto:hireme@morena.dev' rel='noopener noreferrer'>
