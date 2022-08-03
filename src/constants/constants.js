@@ -3,7 +3,7 @@ export const projects = [
     title: 'Toro Clinic Website',
     description:"Toro Clinic is an out patient clinic located in Palapye, Botswana. I developed its  website which plays a vital role in the clinic’s digital marketing and transformation strategy and it makes it easy for clients to schedule appointments online.",
     image: '/images/2.png',
-    tags: ['HTML','Bootstrap','JavaScript','PHP'],
+    tags: ['HTML','Bootstrap','JavaScript','PHP','MySQL'],
     live: 'https://toroclinic.com',
     code: '',
     id: 0,
