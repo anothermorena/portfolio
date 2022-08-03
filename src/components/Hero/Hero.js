@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hey There!
         </SectionTitle>
         <SectionText>
-            My government name is Otsogile Onalepelo but mine is Morena. I am an experienced self-taught software engineer, a qualified AI engineer, and an allied health professional.
+            My government names are Otsogile Onalepelo but mine is Morena. I am an experienced self-taught software engineer, a qualified AI engineer, and an allied health professional.
             A multipotentialite, if you may. With the ability to quickly learn complex things on a need-to-know basis and apply them. 
         </SectionText>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center'}}>
