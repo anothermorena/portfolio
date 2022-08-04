@@ -13,8 +13,8 @@ export const projects = [
     description: "A react native(UI), FastAPI (Server) and MySQL(DB) non-fungible token market place where users can create NFTs and bid on other users' NFTs.",
       image: '/images/1.png',
       tags: ['Expo', 'MySQL', 'FastAPI'],
-    live: '',
-    code: 'https://github.com/anothermorena/nft-marketplace',
+    live: 'https://github.com/anothermorena/nft-marketplace',
+    code: '',
     id: 1,
   },
   {
