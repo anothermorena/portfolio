@@ -1,10 +1,10 @@
-## Personal Portfolio
+# Personal Portfolio
 
 Ladies and gentleman here is an exibit of my work 😁. 
 
 # [Live Site](https://morena.dev)
 
-#Portfolio Screenshots
+# Portfolio Screenshots
 
 ![1](https://user-images.githubusercontent.com/20603329/184308123-4bc8bf65-7046-4979-bc82-6d71345e47e7.png)
 
