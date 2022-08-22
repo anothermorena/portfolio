@@ -56,9 +56,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: 'Started my software engineering journey.', },
-  { year: 2016, text: 'Got an information technology internship at Always Open Clinic.', },
-  { year: 2018, text: 'Got a Bachelors degree in Clinical Informatics.'},
-  { year: 2018, text: 'Started my CTO role at Toro Clinic.', },
   { year: 2021, text: 'Got a Masters degree in Biomedical Engineering specializing in Bioinformatics and Machine Learning.', },
+  { year: 2018, text: 'Started my CTO role at Toro Clinic.', },
+  { year: 2018, text: 'Got a Bachelors degree in Clinical Informatics.'},
+  { year: 2016, text: 'Got an information technology internship at Always Open Clinic.', },
+  { year: 2016, text: 'Started my software engineering journey.', },
 ];
