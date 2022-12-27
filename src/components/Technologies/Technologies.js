@@ -37,7 +37,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             HTML, CSS, Bootstrap, Tailwind CSS, Materialize CSS,
-            Chakra UI, JavaScript, jQuery, Ajax, JSON, React, React
+            Chakra UI, JavaScript, jQuery, Ajax, React, React
             Native, Expo, SEO, WPO, PWA
           </ListParagraph>
         </ListContainer>
@@ -49,7 +49,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            XML, SQL, MySQL, Redis, PHP, Botman, Restful & SOAP API’s,
+            XML, JSON, SQL, MySQL, Redis, PHP, Botman, Restful & SOAP API’s,
             Python, FastAPI, C++, Twilio, Africa is Talking
           </ListParagraph>
         </ListContainer>
@@ -63,7 +63,7 @@ const Technologies = () => (
           <ListParagraph>
             ETL, EDA, Data Visualization, NumPy, Pandas, Scikit-learn,
             Matplotlib, Seaborn, TensorFlow, Keras, Machine & Deep
-            Learning Algorithms, Streamlit, Dialogflow, MLOps.
+            Learning Algorithms, Streamlit, Dialogflow.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -75,7 +75,7 @@ const Technologies = () => (
           <ListTitle>Other Tools & Skils</ListTitle>
           <ListParagraph>
             Git & GitHub, UML, A/B Testing, Pytest, Jest, Cypress,
-            DevOps,Web Scraping, Cloud Technologies, Postman, System
+            Web Scraping, Cloud Technologies, Postman, System
             Design, Design Patterns, People Skills, Presentation
             Skills, Microsoft Office.
           </ListParagraph>
