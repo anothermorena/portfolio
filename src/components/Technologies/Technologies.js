@@ -69,7 +69,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Other Tools & Skils</ListTitle>
           <ListParagraph>
-            Git & GitHub, G it Lab, Docker, UML, A/B Testing, Pytest, Jest,
+            Git & GitHub, Git Lab, Docker, UML, A/B Testing, Pytest, Jest,
             Cypress, Web Scraping, Cloud Technologies, Postman,System Design,
             Design Patterns, People Skills, Presentation Skills, Linux,
             Microsoft Office.
