@@ -12,9 +12,9 @@ export const projects = [
   {
     title: 'NFT Market Place App',
     description:
-      "A react native(UI), FastAPI (Server) and MySQL(DB) non-fungible token market place where users can create NFTs and bid on other users' NFTs.",
+      "A react native(UI), FastAPI (Server) and MySQL(DB) non-fungible token market place where users can create NFTs, bid on other users' NFTs and get recommended NFT'S by a machine learning content-based filtering recommendation engine",
     image: '/images/1.png',
-    tags: ['Expo', 'MySQL', 'FastAPI'],
+    tags: ['Expo', 'MySQL', 'Sklearn', 'FastAPI'],
     live: 'https://github.com/anothermorena/nft-marketplace',
     code: '',
     id: 1,
