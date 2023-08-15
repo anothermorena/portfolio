@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Parcks Website',
     description:
-      'Currently engaged in the development of a website for a UK-based startup, Parcks, which involves converting UI/UX designs from Figma into functional code. A portion of the website is already live on the companys domain, accessible at the official <a href="https://parcks.com">Parcks Website</a>',
+      'Currently engaged in the development of a website for a UK-based startup, Parcks, which involves converting UI/UX designs from Figma into functional code. A portion of the website is already live on the companys domain, accessible at https://parcks.com',
     image: '/images/2.png',
     tags: ['React, Chakra UI', 'FastAPI', 'MySQL'],
     live: 'https://parcks.vercel.app/',
